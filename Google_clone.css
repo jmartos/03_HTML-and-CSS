@@ -1,0 +1,58 @@
+body {
+  background-color: #FFFFFF; 
+}
+
+header {
+  background-color: #FFFFFF; 
+  text-align: right;
+  font-size: 13px;
+  font-family: futura;
+  color: #708090;
+}
+
+.logo {
+  font-size: 80px;
+  font-family: futura;
+  text-align: center;
+  margin-top: 150px;
+}
+
+.box {
+  border-style: solid;
+  border-width: 1px;
+  border-color: blue;
+  text-align: right;
+  width: 500px;
+  margin-top: -50px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.two_buttons { 
+  text-align: center;
+  margin-top: 50px;
+}
+
+.button {
+  background-color: #F7F7F7;
+  padding: 10px 15px 10px 15px;
+  font-size: 13px;
+  font-family: futura;
+}
+
+footer {
+  background-color: #F7F7F7;
+  padding: 2px;
+  font-family: futura;
+  font-size: 13px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+
+
+
+
+
